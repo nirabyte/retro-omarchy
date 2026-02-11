@@ -93,13 +93,7 @@ The text color palette(personal fav) is inspired from a [retro vintage](https://
 
   <!-- Row 5: Pastel Sand, Solarized Light, Warm Beige -->
   <tr>
-    <td width="250" align="center">
-      <a href="https://github.com/nirabyte/retro-omarchy/blob/main/Pastel%20Sand.png">
-        <img src="https://github.com/nirabyte/retro-omarchy/raw/main/Pastel%20Sand.png" alt="Pastel Sand" width="250">
-      </a><br>
-      <sub>Pastel Sand.png</sub>
-    </td>
-    <td width="250" align="center">
+     <td width="250" align="center">
       <a href="https://github.com/nirabyte/retro-omarchy/blob/main/Solarized%20Light.png">
         <img src="https://github.com/nirabyte/retro-omarchy/raw/main/Solarized%20Light.png" alt="Solarized Light" width="250">
       </a><br>
