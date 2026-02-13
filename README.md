@@ -1,5 +1,5 @@
 ## 8K Retro Omarchy Wallpapers
-The text color palette(personal fav) is inspired from a [retro vintage](https://www.color-meanings.com/wp-content/uploads/2023/06/Retro-Color-Palette-2048x2048.jpg) color scheme.
+The text color palette is inspired from a [retro vintage](https://www.color-meanings.com/wp-content/uploads/2023/06/Retro-Color-Palette-2048x2048.jpg) color scheme.
 ## Wallpaper Gallery
 
 <table>
